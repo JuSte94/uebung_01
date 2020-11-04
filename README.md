@@ -1,2 +1,2 @@
-# Uebung 01
+# Uebung 1:
 Julian
